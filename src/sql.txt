@@ -79,7 +79,7 @@ VALUES
 INSERT INTO crimereports (crime_type, crime_date, crime_location, victim_id, description, reported_by, reporting_date, status)
 VALUES
 ('Theft', '2024-01-15', 'Mumbai, Maharashtra', 1, 'Stolen jewelry and cash from the victims house during the night.', 'Anjali Sharma', '2024-01-16', 'Under Investigation'),
-('Assault', '2024-02-12', 'Delhi', 'Delhi', 2, 'The victim was physically attacked by an unknown person near the market.', 'Ravi Kumar', '2024-02-13', 'Reported'),
+('Assault', '2024-02-12', 'Delhi', 2, 'The victim was physically attacked by an unknown person near the market.', 'Ravi Kumar', '2024-02-13', 'Reported'),
 ('Fraud', '2024-03-05', 'Bangalore, Karnataka', 3, 'The victim was tricked into transferring money to a fraudulent account through a phishing attack.', 'Priya Reddy', '2024-03-06', 'Closed'),
 ('Robbery', '2024-04-20', 'Chennai, Tamil Nadu', 4, 'The victim was robbed at gunpoint on the way home from work.', 'Vikas Yadav', '2024-04-21', 'Under Investigation'),
 ('Harassment', '2024-05-18', 'Hyderabad, Telangana', 5, 'The victim has been receiving threatening calls and messages from the suspect.', 'Meera Patel', '2024-05-19', 'Under Investigation'),
